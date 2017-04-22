@@ -18,13 +18,13 @@ body {
 }
 
 .header-image {
-    display: block;
-    width: 100%;
-    text-align: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+	display: block;
+	width: 100%;
+	text-align: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
 }
 
 .headline {
